@@ -1,14 +1,14 @@
 # Brisbane Python User Group meetup checklist
 
-- [] choose day (default: first Wednesday of the month)
-- [] choose venue (current default: Red Hat level 3)
-- [] choose topics/find speakers (see the talks repo for ideas)
-- [] announce on MeetUp (requires organiser access to the MeetUp group)
-- [] arrange food sponsorship (current default: Microsoft Azure Development Team - Azadeh Khojandi is our point of contact)
-- [] preorder food (see current default pizza order below)
-- [] check waitlist numbers the week of the meetup and post MeetUp comment to remind folks to adjust their RSVP if they can't make it
-- [] post MeetUp comment to thank attendees, speakers & sponsors and provide a pointing to the talks repo to both request and offer talks
-- [] file the admin issue for the next month's MeetUp
+- [ ] choose day (default: first Wednesday of the month)
+- [ ] choose venue (current default: Red Hat level 3)
+- [ ] choose topics/find speakers (see the talks repo for ideas)
+- [ ] announce on MeetUp (requires organiser access to the MeetUp group)
+- [ ] arrange food sponsorship (current default: Microsoft Azure Development Team - Azadeh Khojandi is our point of contact)
+- [ ] preorder food (see current default pizza order below)
+- [ ] check waitlist numbers the week of the meetup and post MeetUp comment to remind folks to adjust their RSVP if they can't make it
+- [ ] post MeetUp comment to thank attendees, speakers & sponsors and provide a pointing to the talks repo to both request and offer talks
+- [ ] file the admin issue for the next month's MeetUp
 
 ## Meetup announcement notes:
 
