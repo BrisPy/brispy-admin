@@ -4,6 +4,7 @@
 - [ ] choose venue (current default: Red Hat level 3)
 - [ ] choose topics/find speakers (see the talks repo for ideas)
 - [ ] announce on MeetUp (requires organiser access to the MeetUp group)
+ - please use a suffix of "BrisPy: " for all meetups
 - [ ] arrange food sponsorship (current default: Microsoft Azure Development Team - Azadeh Khojandi is our point of contact)
 - [ ] preorder food (see current default pizza order below)
 - [ ] check waitlist numbers the week of the meetup and post MeetUp comment to remind folks to adjust their RSVP if they can't make it
