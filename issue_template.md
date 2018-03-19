@@ -5,7 +5,7 @@
 - [ ] choose topics/find speakers (see the talks repo for ideas)
 - [ ] announce on MeetUp (requires organiser access to the MeetUp group)
  - please use a suffix of "BrisPy: " for all meetups
-- [ ] arrange food sponsorship (current default: Bloomberg - @nathan-hoad or @kaiw as point of contact)
+- [ ] arrange food sponsorship
 - [ ] preorder food (see current default pizza order below)
 - [ ] check waitlist numbers the week of the meetup and post MeetUp comment to remind folks to adjust their RSVP if they can't make it
 - [ ] post MeetUp comment to thank attendees, speakers & sponsors and provide a pointing to the talks repo to both request and offer talks
