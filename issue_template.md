@@ -1,11 +1,11 @@
 # Brisbane Python User Group meetup checklist
 
 - [ ] choose day (default: second Wednesday of the month)
-- [ ] choose venue (current default: Red Hat level 3)
+- [ ] choose venue (current default: Superloop, 333 Ann St)
 - [ ] choose topics/find speakers (see the talks repo for ideas)
 - [ ] announce on MeetUp (requires organiser access to the MeetUp group)
  - please use a suffix of "BrisPy: " for all meetups
-- [ ] arrange food sponsorship
+- [ ] arrange food sponsorship (current default: Superloop)
 - [ ] preorder food (see current default pizza order below)
 - [ ] check waitlist numbers the week of the meetup and post MeetUp comment to remind folks to adjust their RSVP if they can't make it
 - [ ] post MeetUp comment to thank attendees, speakers & sponsors and provide a pointing to the talks repo to both request and offer talks
@@ -34,11 +34,12 @@
 Default food order is 15 Dominos pizzas for delivery at 6:15 pm:
 
 - 3x Supreme
-- 2x Chicken and Feta
-- 2x Chili Pork
-- 2x Lamb Tzatziki
-- 2x Loaded Meatlovers
+- 2x Chicken & Camembert
+- 2x Godfather
+- 2x BBQ Meatlovers
 - 2x Vegorama
+- 1x Pepperoni
+- 1x Spicy Veg Trio
 - 1x Supreme on gluten free base
 - 1x Vegorama on gluten free base
 
