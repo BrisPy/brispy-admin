@@ -1,19 +1,19 @@
 # Brisbane Python User Group meetup checklist
 
 - [ ] choose day (default: second Wednesday of the month)
-- [ ] choose venue (current default: Superloop, 333 Ann St)
+- [ ] choose venue (current default: River City Labs, 315 Brunswick St)
 - [ ] choose topics/find speakers (see the talks repo for ideas)
 - [ ] announce on MeetUp (requires organiser access to the MeetUp group)
  - please use a suffix of "BrisPy: " for all meetups
 - [ ] arrange food sponsorship (current default: Superloop)
-- [ ] preorder food (see current default pizza order below)
+- [ ] preorder food (see current default food order below)
 - [ ] check waitlist numbers the week of the meetup and post MeetUp comment to remind folks to adjust their RSVP if they can't make it
 - [ ] post MeetUp comment to thank attendees, speakers & sponsors and provide a pointing to the talks repo to both request and offer talks
 - [ ] file the admin issue for the next month's MeetUp
 
 ## Meetup announcement notes:
 
-- usual start time when hosting in the CBD is 5:30 PM for a 5:45 PM start. Add 15 minutes if hosting outside the CBD (e.g. at the State Library)
+- start time is 5:45pm for a 6:00pm start
 - mention the day & date in the meeting title (MeetUp's UI doesn't make it very prominent otherwise)
 - thank both the venue sponsor and the food sponsor
 
@@ -31,15 +31,4 @@
 - cover venue logistics in initial introduction (bathroom locations, fire exits)
 - if the venue has guest wi-fi, make sure you know the password
 
-Default food order is 15 Dominos pizzas for delivery at 6:15 pm:
-
-- 3x Supreme
-- 2x Chicken & Camembert
-- 2x Godfather
-- 2x BBQ Meatlovers
-- 2x Vegorama
-- 1x Pepperoni
-- 1x Spicy Veg Trio
-- 1x Supreme on gluten free base
-- 1x Vegorama on gluten free base
-
+Default food order is 2-3 share platters from Art of Catering.
